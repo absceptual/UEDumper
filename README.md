@@ -23,7 +23,7 @@
 <li>SDK generator and editor.</li>
 <li>New MDK type generator.</li>
 <li>Live editor to read/write the games' memory.</li>
-<li>Saving the SDK and MDK to use it in your C++ project.</li>
+<li>Saving the SDK an MDK to use it in your C++ project.</li>
 <li>Well documented source code for the Engine.</li>
 <li>Simple Definitions that change the Engine's behavior.</li>
 <li>Support for Dumpspace.</li>
